@@ -1,4 +1,5 @@
 # Miscellaneous
+*.hprof
 *.class
 *.log
 *.pyc
