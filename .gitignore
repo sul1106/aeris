@@ -11,6 +11,9 @@
 .svn/
 migrate_working_dir/
 .env
+*.apk
+android/java_pid10468.hprof
+
 
 # IntelliJ related
 *.iml
